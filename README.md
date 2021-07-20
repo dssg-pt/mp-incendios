@@ -30,7 +30,8 @@ Este portal interactivo seria reminiscente do [fogos.pt](https://fogos.pt/) ou d
   - Comtém lista dos 20 maiores incêndios rurais no período de cada relatório
   - Relatório em PDF, mas as tabelas com dados de interesse são facilmente extraíveis
 - [_Dataset_ de mapeamento entre Códigos Postais e nomes de Freguesias, pós-Reorganização Administrativa das Freguesias](https://github.com/dssg-pt/mp-mapeamento-cp7)
-- [Representações cartográficos ao nível do concelho de Portugal Continental e Ilhas](https://github.com/dssg-pt/covid19pt-data/tree/master/extra/mapas/concelhos) (em vários formatos) 
+- [Representações cartográficos ao nível do concelho de Portugal Continental e Ilhas](https://github.com/dssg-pt/covid19pt-data/tree/master/extra/mapas/concelhos) (em vários formatos)
+- [`icnf_mapas`, por VOST Portugal](https://github.com/vostpt/icnf_mapas) - Map of forest fires by burnt area in Portugal (visualização similar e instruções para _scraping_ dos serviços web do ICNF)
 
 ## 🧱 Principais etapas
 
