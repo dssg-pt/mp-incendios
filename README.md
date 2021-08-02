@@ -82,10 +82,7 @@ Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto te
 
 # 👉 Chegaste aqui e queres juntar-te a este Mini-Projecto?
 
-
-Envia-nos um e-mail para [volunteers@dssg.pt](mailto:volunteers@dssg.pt?subject=MP%20Incêndios) com o título _MP Incêndios_ e:
-- CV e/ou LinkedIn
-- Um pequeno parágrafo em que expliques o teu interesse e adequação a este desafio em concreto
+Neste momento o recrutamento encontra-se fechado. Voltaremos em breve com novidades! ✌
 
 --- 
 
