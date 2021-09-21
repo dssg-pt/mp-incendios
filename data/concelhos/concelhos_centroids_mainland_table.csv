@@ -1,0 +1,279 @@
+ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,HASC_2,CCN_2,CCA_2,TYPE_2,ENGTYPE_2,NL_NAME_2,VARNAME_2,x,y
+"182",PRT,Portugal,"1",Évora,"1",Évora,PT.EV.EV,"0","0705",Concelho,Municipality,,,-7.8702278203,38.5331364101
+"182",PRT,Portugal,"1",Évora,"2",Alandroal,PT.EV.AL,"0","0701",Concelho,Municipality,,,-7.3829035422,38.6157702492
+"182",PRT,Portugal,"1",Évora,"3",Arraiolos,PT.EV.AR,"0","0702",Concelho,Municipality,,,-7.9163832998,38.7867504345
+"182",PRT,Portugal,"1",Évora,"4",Borba,PT.EV.BO,"0","0703",Concelho,Municipality,,,-7.4693548647,38.8165249869
+"182",PRT,Portugal,"1",Évora,"5",Estremoz,PT.EV.ES,"0","0704",Concelho,Municipality,,,-7.6136824130,38.8454533891
+"182",PRT,Portugal,"1",Évora,"6",Montemor-o-Novo,PT.EV.MN,"0","0706",Concelho,Municipality,,,-8.2961490625,38.6485708589
+"182",PRT,Portugal,"1",Évora,"7",Mora,PT.EV.MR,"0","0707",Concelho,Municipality,,,-8.0888292459,38.9188954496
+"182",PRT,Portugal,"1",Évora,"8",Mourão,PT.EV.MO,"0","0708",Concelho,Municipality,,,-7.2749518890,38.3182145892
+"182",PRT,Portugal,"1",Évora,"9",Portel,PT.EV.PO,"0","0709",Concelho,Municipality,,,-7.6966563461,38.3018312673
+"182",PRT,Portugal,"1",Évora,"10",Redondo,PT.EV.RD,"0","0710",Concelho,Municipality,,,-7.5987930717,38.6256097204
+"182",PRT,Portugal,"1",Évora,"11",Reguengos de Monsaraz,PT.EV.RM,"0","0711",Concelho,Municipality,,,-7.4774278730,38.3961807893
+"182",PRT,Portugal,"1",Évora,"12",Vendas Novas,PT.EV.VN,"0","0712",Concelho,Municipality,,,-8.5148044169,38.6550022573
+"182",PRT,Portugal,"1",Évora,"13",Viana do Alentejo,PT.EV.VA,"0","0713",Concelho,Municipality,,,-8.1224085369,38.3845861792
+"182",PRT,Portugal,"1",Évora,"14",Vila Viçosa,PT.EV.VV,"0","0714",Concelho,Municipality,,,-7.3531708908,38.7688898486
+"182",PRT,Portugal,"2",Aveiro,"15",Águeda,PT.AV.AG,"0","0101",Concelho,Municipality,,,-8.3956347260,40.5860121691
+"182",PRT,Portugal,"2",Aveiro,"16",Ílhavo,PT.AV.IL,"0","0110",Concelho,Municipality,,,-8.6994713770,40.6053002426
+"182",PRT,Portugal,"2",Aveiro,"17",Albergaria-a-Velha,PT.AV.AL,"0","0102",Concelho,Municipality,,,-8.4948644801,40.7000006931
+"182",PRT,Portugal,"2",Aveiro,"18",Anadia,PT.AV.AN,"0","0103",Concelho,Municipality,,,-8.4427793218,40.4526187707
+"182",PRT,Portugal,"2",Aveiro,"19",Arouca,PT.AV.AR,"0","0104",Concelho,Municipality,,,-8.2517170605,40.9287631157
+"182",PRT,Portugal,"2",Aveiro,"20",Aveiro,PT.AV.AV,"0","0105",Concelho,Municipality,,,-8.6211228890,40.6371868465
+"182",PRT,Portugal,"2",Aveiro,"21",Castelo de Paiva,PT.AV.CP,"0","0106",Concelho,Municipality,,,-8.3030317280,41.0182462032
+"182",PRT,Portugal,"2",Aveiro,"22",Espinho,PT.AV.EN,"0","0107",Concelho,Municipality,,,-8.6257758591,40.9947762561
+"182",PRT,Portugal,"2",Aveiro,"23",Estarreja,PT.AV.ER,"0","0108",Concelho,Municipality,,,-8.5748949862,40.7611501978
+"182",PRT,Portugal,"2",Aveiro,"24",Mealhada,PT.AV.ME,"0","0111",Concelho,Municipality,,,-8.4410301233,40.3537680337
+"182",PRT,Portugal,"2",Aveiro,"25",Murtosa,PT.AV.MU,"0","0112",Concelho,Municipality,,,-8.6701940959,40.7602644105
+"182",PRT,Portugal,"2",Aveiro,"26",Oliveira de Azeméis,PT.AV.OA,"0","0113",Concelho,Municipality,,,-8.4683759424,40.8422262484
+"182",PRT,Portugal,"2",Aveiro,"27",Oliveira do Bairro,PT.AV.OB,"0","0114",Concelho,Municipality,,,-8.5515153962,40.5158536254
+"182",PRT,Portugal,"2",Aveiro,"28",Ovar,PT.AV.OV,"0","0115",Concelho,Municipality,,,-8.6184442419,40.8778686141
+"182",PRT,Portugal,"2",Aveiro,"29",São João da Madeira,PT.AV.SJ,"0","0116",Concelho,Municipality,,,-8.4903566352,40.8956330701
+"182",PRT,Portugal,"2",Aveiro,"30",Santa Maria da Feira,PT.AV.SM,"0","0109",Concelho,Municipality,,Feira,-8.5104681180,40.9668931979
+"182",PRT,Portugal,"2",Aveiro,"31",Sever do Vouga,PT.AV.SV,"0","0117",Concelho,Municipality,,,-8.3517458876,40.7244102533
+"182",PRT,Portugal,"2",Aveiro,"32",Vagos,PT.AV.VG,"0","0118",Concelho,Municipality,,,-8.6895480775,40.5154640569
+"182",PRT,Portugal,"2",Aveiro,"33",Vale de Cambra,PT.AV.VC,"0","0119",Concelho,Municipality,,,-8.3363747360,40.8335515408
+"182",PRT,Portugal,"4",Beja,"53",Aljustrel,PT.BE.AJ,"0","0201",Concelho,Municipality,,,-8.1881189354,37.8878557523
+"182",PRT,Portugal,"4",Beja,"54",Almodôvar,PT.BE.AM,"0","0202",Concelho,Municipality,,,-8.0844829555,37.4750035338
+"182",PRT,Portugal,"4",Beja,"55",Alvito,PT.BE.AV,"0","0203",Concelho,Municipality,,,-8.0414970373,38.2440715816
+"182",PRT,Portugal,"4",Beja,"56",Barrancos,PT.BE.BA,"0","0204",Concelho,Municipality,,,-7.0522104823,38.1481909708
+"182",PRT,Portugal,"4",Beja,"57",Beja,PT.BE.BE,"0","0205",Concelho,Municipality,,,-7.8558717873,37.9625398290
+"182",PRT,Portugal,"4",Beja,"58",Castro Verde,PT.BE.CV,"0","0206",Concelho,Municipality,,,-8.0282875125,37.7047059791
+"182",PRT,Portugal,"4",Beja,"59",Cuba,PT.BE.CU,"0","0207",Concelho,Municipality,,,-7.9134777832,38.1927801098
+"182",PRT,Portugal,"4",Beja,"60",Ferreira do Alentejo,PT.BE.FA,"0","0208",Concelho,Municipality,,,-8.1888615248,38.0882470294
+"182",PRT,Portugal,"4",Beja,"61",Mértola,PT.BE.ME,"0","0209",Concelho,Municipality,,,-7.7065808091,37.6467981867
+"182",PRT,Portugal,"4",Beja,"62",Moura,PT.BE.MO,"0","0210",Concelho,Municipality,,,-7.2874541929,38.1334314671
+"182",PRT,Portugal,"4",Beja,"63",Odemira,PT.BE.OD,"0","0211",Concelho,Municipality,,,-8.5768503882,37.6072703031
+"182",PRT,Portugal,"4",Beja,"64",Ourique,PT.BE.OU,"0","0212",Concelho,Municipality,,,-8.2911167478,37.6399390387
+"182",PRT,Portugal,"4",Beja,"65",Serpa,PT.BE.SE,"0","0213",Concelho,Municipality,,,-7.4896500519,37.9329476258
+"182",PRT,Portugal,"4",Beja,"66",Vidigueira,PT.BE.VI,"0","0214",Concelho,Municipality,,,-7.7169559653,38.1689491366
+"182",PRT,Portugal,"5",Braga,"67",Amares,PT.BR.AM,"0","0301",Concelho,Municipality,,,-8.3452827311,41.6516856628
+"182",PRT,Portugal,"5",Braga,"68",Barcelos,PT.BR.BA,"0","0302",Concelho,Municipality,,,-8.6237092925,41.5367090993
+"182",PRT,Portugal,"5",Braga,"69",Braga,PT.BR.BR,"0","0303",Concelho,Municipality,,,-8.4238384192,41.5442371536
+"182",PRT,Portugal,"5",Braga,"69",Braga,PT.BR.BR,"0","0308",Concelho,Municipality,,,-8.3159849353,41.4630788012
+"182",PRT,Portugal,"5",Braga,"70",Cabeceiras de Basto,PT.BR.CB,"0","0304",Concelho,Municipality,,,-7.9538898877,41.5401690162
+"182",PRT,Portugal,"5",Braga,"71",Celorico de Basto,PT.BR.CL,"0","0305",Concelho,Municipality,,,-8.0396116092,41.4013096671
+"182",PRT,Portugal,"5",Braga,"72",Esposende,PT.BR.ES,"0","0306",Concelho,Municipality,,,-8.7572338756,41.5471503496
+"182",PRT,Portugal,"5",Braga,"73",Fafe,PT.BR.FA,"0","0307",Concelho,Municipality,,,-8.1482430674,41.4772577049
+"182",PRT,Portugal,"5",Braga,"74",Póvoa de Lanhoso,PT.BR.PL,"0","0309",Concelho,Municipality,,,-8.2535922194,41.5881122876
+"182",PRT,Portugal,"5",Braga,"75",Terras de Bouro,PT.BR.TB,"0","0310",Concelho,Municipality,,,-8.1911646373,41.7390775399
+"182",PRT,Portugal,"5",Braga,"76",Vieira do Minho,PT.BR.VM,"0","0311",Concelho,Municipality,,,-8.1046850970,41.6311771350
+"182",PRT,Portugal,"5",Braga,"77",Vila Nova de Famalicão,PT.BR.VF,"0","0312",Concelho,Municipality,,,-8.5033277154,41.4086267268
+"182",PRT,Portugal,"5",Braga,"78",Vila Verde,PT.BR.VV,"0","0313",Concelho,Municipality,,,-8.4434558050,41.6807638031
+"182",PRT,Portugal,"5",Braga,"79",Vizela,PT.BR.VZ,"0","0314",Concelho,Municipality,,,-8.2956004933,41.3733234035
+"182",PRT,Portugal,"6",Bragança,"80",Alfândega da Fé,PT.BA.AF,"0","0401",Concelho,Municipality,,,-6.9510938191,41.3498306745
+"182",PRT,Portugal,"6",Bragança,"81",Bragança,PT.BA.BR,"0","0402",Concelho,Municipality,,,-6.7352370455,41.7709093452
+"182",PRT,Portugal,"6",Bragança,"82",Carrazeda de Ansiães,PT.BA.CA,"0","0403",Concelho,Municipality,,,-7.3080158134,41.2280202811
+"182",PRT,Portugal,"6",Bragança,"83",Freixo de Espada à Cinta,PT.BA.FE,"0","0404",Concelho,Municipality,,,-6.8327033906,41.1135194901
+"182",PRT,Portugal,"6",Bragança,"84",Macedo de Cavaleiros,PT.BA.MC,"0","0405",Concelho,Municipality,,,-6.9062781781,41.5433569502
+"182",PRT,Portugal,"6",Bragança,"85",Miranda do Douro,PT.BA.MD,"0","0406",Concelho,Municipality,,,-6.3584961931,41.5105902246
+"182",PRT,Portugal,"6",Bragança,"86",Mirandela,PT.BA.MI,"0","0407",Concelho,Municipality,,,-7.1876511480,41.5084567874
+"182",PRT,Portugal,"6",Bragança,"87",Mogadouro,PT.BA.MO,"0","0408",Concelho,Municipality,,,-6.6700249263,41.3333667948
+"182",PRT,Portugal,"6",Bragança,"88",Torre de Moncorvo,PT.BA.TM,"0","0409",Concelho,Municipality,,,-7.0167840627,41.1725786082
+"182",PRT,Portugal,"6",Bragança,"89",Vila Flor,PT.BA.VF,"0","0410",Concelho,Municipality,,,-7.1594510261,41.3216803623
+"182",PRT,Portugal,"6",Bragança,"90",Vimioso,PT.BA.VM,"0","0411",Concelho,Municipality,,,-6.5307418030,41.5706999643
+"182",PRT,Portugal,"6",Bragança,"91",Vinhais,PT.BA.VN,"0","0412",Concelho,Municipality,,,-7.0486394554,41.8324944708
+"182",PRT,Portugal,"7",Castelo Branco,"92",Belmonte,PT.CB.BE,"0","0501",Concelho,Municipality,,,-7.3296709600,40.3307667687
+"182",PRT,Portugal,"7",Castelo Branco,"93",Castelo Branco,PT.CB.CB,"0","0502",Concelho,Municipality,,,-7.5016656147,39.8548339700
+"182",PRT,Portugal,"7",Castelo Branco,"94",Covilhã,PT.CB.CO,"0","0503",Concelho,Municipality,,,-7.5626074450,40.2567098939
+"182",PRT,Portugal,"7",Castelo Branco,"95",Fundão,PT.CB.FU,"0","0504",Concelho,Municipality,,,-7.4824668050,40.1214404554
+"182",PRT,Portugal,"7",Castelo Branco,"96",Idanha-a-Nova,PT.CB.IN,"0","0505",Concelho,Municipality,,,-7.1130439071,39.9002783766
+"182",PRT,Portugal,"7",Castelo Branco,"97",Oleiros,PT.CB.OL,"0","0506",Concelho,Municipality,,,-7.8711153128,39.9445782219
+"182",PRT,Portugal,"7",Castelo Branco,"98",Penamacor,PT.CB.PE,"0","0507",Concelho,Municipality,,,-7.1367924281,40.1765323520
+"182",PRT,Portugal,"7",Castelo Branco,"99",Proença-a-Nova,PT.CB.PN,"0","0508",Concelho,Municipality,,,-7.8557859513,39.7383022120
+"182",PRT,Portugal,"7",Castelo Branco,"100",Sertã,PT.CB.SE,"0","0509",Concelho,Municipality,,,-8.0991760040,39.8244346960
+"182",PRT,Portugal,"7",Castelo Branco,"101",Vila de Rei,PT.CB.VR,"0","0510",Concelho,Municipality,,,-8.1443152272,39.6831165842
+"182",PRT,Portugal,"7",Castelo Branco,"102",Vila Velha de Ródão,PT.CB.VV,"0","0511",Concelho,Municipality,,,-7.6637739350,39.6809274954
+"182",PRT,Portugal,"8",Coimbra,"103",Arganil,PT.CO.AR,"0","0601",Concelho,Municipality,,,-7.9854865169,40.2290351669
+"182",PRT,Portugal,"8",Coimbra,"104",Cantanhede,PT.CO.CA,"0","0602",Concelho,Municipality,,,-8.6373394937,40.3549605306
+"182",PRT,Portugal,"8",Coimbra,"105",Coimbra,PT.CO.CO,"0","0603",Concelho,Municipality,,,-8.4461746802,40.2161539714
+"182",PRT,Portugal,"8",Coimbra,"106",Condeixa-a-Nova,PT.CO.CN,"0","0604",Concelho,Municipality,,,-8.4996305363,40.0987142985
+"182",PRT,Portugal,"8",Coimbra,"107",Figueira da Foz,PT.CO.FF,"0","0605",Concelho,Municipality,,,-8.8085714381,40.1689873448
+"182",PRT,Portugal,"8",Coimbra,"108",Góis,PT.CO.GO,"0","0606",Concelho,Municipality,,,-8.0894309259,40.1025377620
+"182",PRT,Portugal,"8",Coimbra,"109",Lousã,PT.CO.LO,"0","0607",Concelho,Municipality,,,-8.2283795790,40.1317652944
+"182",PRT,Portugal,"8",Coimbra,"110",Mira,PT.CO.MI,"0","0608",Concelho,Municipality,,,-8.7547176053,40.4330731372
+"182",PRT,Portugal,"8",Coimbra,"111",Miranda do Corvo,PT.CO.MC,"0","0609",Concelho,Municipality,,,-8.3273988222,40.1048586520
+"182",PRT,Portugal,"8",Coimbra,"112",Montemor-o-Velho,PT.CO.MV,"0","0610",Concelho,Municipality,,,-8.6584554278,40.2146907164
+"182",PRT,Portugal,"8",Coimbra,"113",Oliveira do Hospital,PT.CO.OH,"0","0611",Concelho,Municipality,,,-7.8637190113,40.3684607552
+"182",PRT,Portugal,"8",Coimbra,"114",Pampilhosa da Serra,PT.CO.PS,"0","0612",Concelho,Municipality,,,-7.9163663834,40.0843108179
+"182",PRT,Portugal,"8",Coimbra,"115",Penacova,PT.CO.PC,"0","0613",Concelho,Municipality,,,-8.2675626571,40.2975633840
+"182",PRT,Portugal,"8",Coimbra,"116",Penela,PT.CO.PL,"0","0614",Concelho,Municipality,,,-8.3698480108,40.0101231338
+"182",PRT,Portugal,"8",Coimbra,"117",Soure,PT.CO.SO,"0","0615",Concelho,Municipality,,,-8.6195929841,40.0667915166
+"182",PRT,Portugal,"8",Coimbra,"118",Tábua,PT.CO.TA,"0","0616",Concelho,Municipality,,,-8.0151874398,40.3341626600
+"182",PRT,Portugal,"8",Coimbra,"119",Vila Nova de Poiares,PT.CO.VP,"0","0617",Concelho,Municipality,,,-8.2503948701,40.2169287265
+"182",PRT,Portugal,"9",Faro,"120",Albufeira,PT.FA.AB,"0","0801",Concelho,Municipality,,,-8.2326355915,37.1337812738
+"182",PRT,Portugal,"9",Faro,"121",Alcoutim,PT.FA.AC,"0","0802",Concelho,Municipality,,,-7.6409065206,37.4419949422
+"182",PRT,Portugal,"9",Faro,"121",Alcoutim,PT.FA.AC,"0","0814",Concelho,Municipality,,,-7.7237243628,37.2506587729
+"182",PRT,Portugal,"9",Faro,"122",Aljezur,PT.FA.AJ,"0","0803",Concelho,Municipality,,,-8.8008456244,37.2972228255
+"182",PRT,Portugal,"9",Faro,"123",Castro Marim,PT.FA.CM,"0","0804",Concelho,Municipality,,,-7.5168838188,37.2927206394
+"182",PRT,Portugal,"9",Faro,"124",Faro,PT.FA.FA,"0","0805",Concelho,Municipality,,,-7.9195804818,37.0599738320
+"182",PRT,Portugal,"9",Faro,"125",Lagoa,PT.FA.LA,"0","0806",Concelho,Municipality,,,-8.4532848794,37.1257503025
+"182",PRT,Portugal,"9",Faro,"126",Lagos,PT.FA.LS,"0","0807",Concelho,Municipality,,,-8.7284586774,37.1520036265
+"182",PRT,Portugal,"9",Faro,"127",Loulé,PT.FA.LO,"0","0808",Concelho,Municipality,,,-8.0467844001,37.2253809814
+"182",PRT,Portugal,"9",Faro,"128",Monchique,PT.FA.MO,"0","0809",Concelho,Municipality,,,-8.5916894244,37.3161753726
+"182",PRT,Portugal,"9",Faro,"129",Olhão,PT.FA.OL,"0","0810",Concelho,Municipality,,,-7.8102748506,37.0641459752
+"182",PRT,Portugal,"9",Faro,"130",Portimão,PT.FA.PO,"0","0811",Concelho,Municipality,,,-8.5828276826,37.1921866041
+"182",PRT,Portugal,"9",Faro,"131",São Brás de Alportel,PT.FA.SB,"0","0812",Concelho,Municipality,,,-7.8786513718,37.1956952793
+"182",PRT,Portugal,"9",Faro,"132",Silves,PT.FA.SI,"0","0813",Concelho,Municipality,,,-8.3458551768,37.2703334293
+"182",PRT,Portugal,"9",Faro,"133",Vila do Bispo,PT.FA.VB,"0","0815",Concelho,Municipality,,,-8.8834372384,37.0863300610
+"182",PRT,Portugal,"9",Faro,"134",Vila Real de Santo António,PT.FA.VS,"0","0816",Concelho,Municipality,,,-7.5197140382,37.1961655980
+"182",PRT,Portugal,"10",Guarda,"135",Aguiar da Beira,PT.GU.AB,"0","0901",Concelho,Municipality,,,-7.5283816371,40.7811609870
+"182",PRT,Portugal,"10",Guarda,"136",Almeida,PT.GU.AL,"0","0902",Concelho,Municipality,,,-6.9139916324,40.6229579376
+"182",PRT,Portugal,"10",Guarda,"137",Celorico da Beira,PT.GU.CB,"0","0903",Concelho,Municipality,,,-7.3849393211,40.6222988702
+"182",PRT,Portugal,"10",Guarda,"138",Figueira de Castelo Rodrigo,PT.GU.FC,"0","0904",Concelho,Municipality,,,-6.9594061053,40.8844583815
+"182",PRT,Portugal,"10",Guarda,"139",Fornos de Algodres,PT.GU.FA,"0","0905",Concelho,Municipality,,,-7.5000911506,40.6510380779
+"182",PRT,Portugal,"10",Guarda,"140",Gouveia,PT.GU.GO,"0","0906",Concelho,Municipality,,,-7.5803192173,40.5013700582
+"182",PRT,Portugal,"10",Guarda,"141",Guarda,PT.GU.GU,"0","0907",Concelho,Municipality,,,-7.2450467894,40.5195130422
+"182",PRT,Portugal,"10",Guarda,"142",Mêda,PT.GU.ME,"0","0909",Concelho,Municipality,,,-7.2528057957,40.9366388226
+"182",PRT,Portugal,"10",Guarda,"143",Manteigas,PT.GU.MA,"0","0908",Concelho,Municipality,,,-7.5200562061,40.3911389703
+"182",PRT,Portugal,"10",Guarda,"144",Pinhel,PT.GU.PI,"0","0910",Concelho,Municipality,,,-7.1101334003,40.7419495524
+"182",PRT,Portugal,"10",Guarda,"145",Sabugal,PT.GU.SA,"0","0911",Concelho,Municipality,,,-7.0324573340,40.3732738412
+"182",PRT,Portugal,"10",Guarda,"146",Seia,PT.GU.SE,"0","0912",Concelho,Municipality,,,-7.7191601791,40.3777618654
+"182",PRT,Portugal,"10",Guarda,"147",Trancoso,PT.GU.TR,"0","0913",Concelho,Municipality,,,-7.3346944248,40.7914703223
+"182",PRT,Portugal,"10",Guarda,"148",Vila Nova de Foz Côa,PT.GU.VF,"0","0914",Concelho,Municipality,,,-7.1699236314,41.0526374513
+"182",PRT,Portugal,"11",Leiria,"149",Óbidos,PT.LE.OB,"0","1012",Concelho,Municipality,,,-9.1886914580,39.3624967925
+"182",PRT,Portugal,"11",Leiria,"150",Alcobaça,PT.LE.AC,"0","1001",Concelho,Municipality,,,-8.9903611451,39.5523266896
+"182",PRT,Portugal,"11",Leiria,"151",Alvaiázere,PT.LE.AV,"0","1002",Concelho,Municipality,,,-8.3954119447,39.8192484922
+"182",PRT,Portugal,"11",Leiria,"152",Ansião,PT.LE.AN,"0","1003",Concelho,Municipality,,,-8.4387106323,39.9341561539
+"182",PRT,Portugal,"11",Leiria,"153",Batalha,PT.LE.BA,"0","1004",Concelho,Municipality,,,-8.7655448818,39.6370585796
+"182",PRT,Portugal,"11",Leiria,"154",Bombarral,PT.LE.BO,"0","1005",Concelho,Municipality,,,-9.1579196477,39.2840900137
+"182",PRT,Portugal,"11",Leiria,"155",Caldas da Rainha,PT.LE.CR,"0","1006",Concelho,Municipality,,,-9.0862384862,39.4074755582
+"182",PRT,Portugal,"11",Leiria,"156",Castanheira de Pêra,PT.LE.CP,"0","1007",Concelho,Municipality,,,-8.1958073629,40.0199473680
+"182",PRT,Portugal,"11",Leiria,"157",Figueiró dos Vinhos,PT.LE.FV,"0","1008",Concelho,Municipality,,,-8.2820704022,39.9252134139
+"182",PRT,Portugal,"11",Leiria,"158",Leiria,PT.LE.LE,"0","1009",Concelho,Municipality,,,-8.8021960994,39.7893107006
+"182",PRT,Portugal,"11",Leiria,"159",Marinha Grande,PT.LE.MG,"0","1010",Concelho,Municipality,,,-8.9525794543,39.7852753687
+"182",PRT,Portugal,"11",Leiria,"160",Nazaré,PT.LE.NA,"0","1011",Concelho,Municipality,,,-9.0444044675,39.5946938988
+"182",PRT,Portugal,"11",Leiria,"161",Pedrógão Grande,PT.LE.PG,"0","1013",Concelho,Municipality,,,-8.1825803824,39.9349300128
+"182",PRT,Portugal,"11",Leiria,"162",Peniche,PT.LE.PN,"0","1014",Concelho,Municipality,,,-9.3208630958,39.3392392030
+"182",PRT,Portugal,"11",Leiria,"163",Pombal,PT.LE.PB,"0","1015",Concelho,Municipality,,,-8.6773738223,39.9264791887
+"182",PRT,Portugal,"11",Leiria,"164",Porto de Mós,PT.LE.PM,"0","1016",Concelho,Municipality,,,-8.8170093993,39.5579196320
+"182",PRT,Portugal,"12",Lisboa,"165",Alenquer,PT.LI.AL,"0","1101",Concelho,Municipality,,,-9.0390684159,39.0981598889
+"182",PRT,Portugal,"12",Lisboa,"166",Amadora,PT.LI.AM,"0","1115",Concelho,Municipality,,,-9.2295104770,38.7598160178
+"182",PRT,Portugal,"12",Lisboa,"167",Arruda dos Vinhos,PT.LI.AV,"0","1102",Concelho,Municipality,,,-9.0942027685,38.9746653962
+"182",PRT,Portugal,"12",Lisboa,"168",Azambuja,PT.LI.AZ,"0","1103",Concelho,Municipality,,,-8.8968719975,39.1336682566
+"182",PRT,Portugal,"12",Lisboa,"169",Cadaval,PT.LI.CD,"0","1104",Concelho,Municipality,,,-9.0675507936,39.2349057863
+"182",PRT,Portugal,"12",Lisboa,"170",Cascais,PT.LI.CS,"0","1105",Concelho,Municipality,,,-9.4009985837,38.7249844300
+"182",PRT,Portugal,"12",Lisboa,"171",Lisboa,PT.LI.LI,"0","1106",Concelho,Municipality,,,-9.1576845427,38.7416498862
+"182",PRT,Portugal,"12",Lisboa,"172",Loures,PT.LI.LS,"0","1107",Concelho,Municipality,,,-9.1544700613,38.8616285318
+"182",PRT,Portugal,"12",Lisboa,"173",Lourinhã,PT.LI.LN,"0","1108",Concelho,Municipality,,,-9.2692545834,39.2465400467
+"182",PRT,Portugal,"12",Lisboa,"174",Mafra,PT.LI.MA,"0","1109",Concelho,Municipality,,,-9.3088682651,38.9611409146
+"182",PRT,Portugal,"12",Lisboa,"175",Odivelas,PT.LI.OD,"0","1116",Concelho,Municipality,,,-9.1992660829,38.7978194587
+"182",PRT,Portugal,"12",Lisboa,"176",Oeiras,PT.LI.OE,"0","1110",Concelho,Municipality,,,-9.2763065304,38.7170249308
+"182",PRT,Portugal,"12",Lisboa,"177",Sintra,PT.LI.SI,"0","1111",Concelho,Municipality,,,-9.3576425536,38.8230377528
+"182",PRT,Portugal,"12",Lisboa,"178",Sobral de Monte Agraço,PT.LI.SM,"0","1112",Concelho,Municipality,,,-9.1607295387,38.9951362858
+"182",PRT,Portugal,"12",Lisboa,"179",Torres Vedras,PT.LI.TV,"0","1113",Concelho,Municipality,,,-9.2604393512,39.1048880197
+"182",PRT,Portugal,"12",Lisboa,"180",Vila Franca de Xira,PT.LI.VX,"0","1114",Concelho,Municipality,,,-8.9836313706,38.9295660384
+"182",PRT,Portugal,"14",Portalegre,"192",Alter do Chão,PT.PA.AC,"0","1201",Concelho,Municipality,,,-7.7248852743,39.2129829550
+"182",PRT,Portugal,"14",Portalegre,"193",Arronches,PT.PA.AR,"0","1202",Concelho,Municipality,,,-7.2433309368,39.1168325280
+"182",PRT,Portugal,"14",Portalegre,"194",Avis,PT.PA.AV,"0","1203",Concelho,Municipality,,,-7.9128563864,39.0696867947
+"182",PRT,Portugal,"14",Portalegre,"195",Campo Maior,PT.PA.CM,"0","1204",Concelho,Municipality,,,-7.0504781662,39.0261901607
+"182",PRT,Portugal,"14",Portalegre,"196",Castelo de Vide,PT.PA.CV,"0","1205",Concelho,Municipality,,,-7.4933222002,39.4645490743
+"182",PRT,Portugal,"14",Portalegre,"197",Crato,PT.PA.CR,"0","1206",Concelho,Municipality,,,-7.6450422485,39.3133175081
+"182",PRT,Portugal,"14",Portalegre,"198",Elvas,PT.PA.EL,"0","1207",Concelho,Municipality,,,-7.2288815704,38.9104822182
+"182",PRT,Portugal,"14",Portalegre,"199",Fronteira,PT.PA.FR,"0","1208",Concelho,Municipality,,,-7.6266601589,39.0760230705
+"182",PRT,Portugal,"14",Portalegre,"200",Gavião,PT.PA.GA,"0","1209",Concelho,Municipality,,,-7.8950269865,39.4388286322
+"182",PRT,Portugal,"14",Portalegre,"201",Marvão,PT.PA.MA,"0","1210",Concelho,Municipality,,,-7.3628003851,39.4053126333
+"182",PRT,Portugal,"14",Portalegre,"202",Monforte,PT.PA.MO,"0","1211",Concelho,Municipality,,,-7.4353959699,39.0478967655
+"182",PRT,Portugal,"14",Portalegre,"203",Nisa,PT.PA.NI,"0","1212",Concelho,Municipality,,,-7.6675853183,39.5228620613
+"182",PRT,Portugal,"14",Portalegre,"204",Ponte de Sôr,PT.PA.PS,"0","1213",Concelho,Municipality,,,-8.0824086930,39.1879274203
+"182",PRT,Portugal,"14",Portalegre,"205",Portalegre,PT.PA.PA,"0","1214",Concelho,Municipality,,,-7.3995774390,39.2692764893
+"182",PRT,Portugal,"14",Portalegre,"206",Sousel,PT.PA.SO,"0","1215",Concelho,Municipality,,,-7.7394552858,38.9615197176
+"182",PRT,Portugal,"15",Porto,"207",Amarante,PT.PO.AM,"0","1301",Concelho,Municipality,,,-8.0421148825,41.2725283176
+"182",PRT,Portugal,"15",Porto,"208",Baião,PT.PO.BA,"0","1302",Concelho,Municipality,,,-7.9892425425,41.1575638319
+"182",PRT,Portugal,"15",Porto,"209",Felgueiras,PT.PO.FE,"0","1303",Concelho,Municipality,,,-8.2015700709,41.3506009482
+"182",PRT,Portugal,"15",Porto,"210",Gondomar,PT.PO.GO,"0","1304",Concelho,Municipality,,,-8.4829741341,41.1095830552
+"182",PRT,Portugal,"15",Porto,"211",Lousada,PT.PO.LO,"0","1305",Concelho,Municipality,,,-8.2752167706,41.2855238301
+"182",PRT,Portugal,"15",Porto,"212",Maia,PT.PO.MI,"0","1306",Concelho,Municipality,,,-8.6011891180,41.2449858175
+"182",PRT,Portugal,"15",Porto,"213",Marco de Canaveses,PT.PO.MC,"0","1307",Concelho,Municipality,,,-8.1582963450,41.1555799290
+"182",PRT,Portugal,"15",Porto,"214",Matosinhos,PT.PO.MT,"0","1308",Concelho,Municipality,,,-8.6707053709,41.2127378491
+"182",PRT,Portugal,"15",Porto,"215",Póvoa de Varzim,PT.PO.PV,"0","1313",Concelho,Municipality,,,-8.7172266511,41.4191470599
+"182",PRT,Portugal,"15",Porto,"216",Paços de Ferreira,PT.PO.PF,"0","1309",Concelho,Municipality,,,-8.3799940886,41.2885172178
+"182",PRT,Portugal,"15",Porto,"217",Paredes,PT.PO.PA,"0","1310",Concelho,Municipality,,,-8.3961180827,41.1815191110
+"182",PRT,Portugal,"15",Porto,"218",Penafiel,PT.PO.PE,"0","1311",Concelho,Municipality,,,-8.2938013654,41.1506328679
+"182",PRT,Portugal,"15",Porto,"219",Porto,PT.PO.PO,"0","1312",Concelho,Municipality,,,-8.6208009883,41.1617460493
+"182",PRT,Portugal,"15",Porto,"220",Santo Tirso,PT.PO.ST,"0","1314",Concelho,Municipality,,,-8.4439969894,41.3208696275
+"182",PRT,Portugal,"15",Porto,"221",Trofa,PT.PO.TR,"0","1318",Concelho,Municipality,,,-8.5673346302,41.3114199055
+"182",PRT,Portugal,"15",Porto,"222",Valongo,PT.PO.VA,"0","1315",Concelho,Municipality,,,-8.4941786877,41.2066930863
+"182",PRT,Portugal,"15",Porto,"223",Vila do Conde,PT.PO.VC,"0","1316",Concelho,Municipality,,,-8.6826031875,41.3381929492
+"182",PRT,Portugal,"15",Porto,"224",Vila Nova de Gaia,PT.PO.VG,"0","1317",Concelho,Municipality,,,-8.5806919426,41.0744660338
+"182",PRT,Portugal,"16",Santarém,"225",Abrantes,PT.SA.AB,"0","1401",Concelho,Municipality,,,-8.1578527633,39.4263042670
+"182",PRT,Portugal,"16",Santarém,"226",Alcanena,PT.SA.AC,"0","1402",Concelho,Municipality,,,-8.6893036451,39.4723626074
+"182",PRT,Portugal,"16",Santarém,"227",Almeirim,PT.SA.AM,"0","1403",Concelho,Municipality,,,-8.5800037768,39.1589291082
+"182",PRT,Portugal,"16",Santarém,"228",Alpiarça,PT.SA.AP,"0","1404",Concelho,Municipality,,,-8.5705643442,39.2411299116
+"182",PRT,Portugal,"16",Santarém,"229",Benavente,PT.SA.BE,"0","1405",Concelho,Municipality,,,-8.8106630440,38.8678656355
+"182",PRT,Portugal,"16",Santarém,"230",Cartaxo,PT.SA.CA,"0","1406",Concelho,Municipality,,,-8.7896260692,39.1457940861
+"182",PRT,Portugal,"16",Santarém,"231",Chamusca,PT.SA.CH,"0","1407",Concelho,Municipality,,,-8.3803602134,39.2716332848
+"182",PRT,Portugal,"16",Santarém,"232",Constância,PT.SA.CN,"0","1408",Concelho,Municipality,,,-8.2914964747,39.4257019904
+"182",PRT,Portugal,"16",Santarém,"233",Coruche,PT.SA.CR,"0","1409",Concelho,Municipality,,,-8.4475310341,38.9402188788
+"182",PRT,Portugal,"16",Santarém,"234",Entroncamento,PT.SA.EN,"0","1410",Concelho,Municipality,,,-8.4786617320,39.4643638121
+"182",PRT,Portugal,"16",Santarém,"235",Ferreira do Zêzere,PT.SA.FZ,"0","1411",Concelho,Municipality,,,-8.3168813013,39.7213564852
+"182",PRT,Portugal,"16",Santarém,"236",Golegã,PT.SA.GO,"0","1412",Concelho,Municipality,,,-8.5056438283,39.3868378477
+"182",PRT,Portugal,"16",Santarém,"237",Mação,PT.SA.MA,"0","1413",Concelho,Municipality,,,-7.9748759792,39.6051747983
+"182",PRT,Portugal,"16",Santarém,"238",Ourém,PT.SA.OU,"0","1421",Concelho,Municipality,,,-8.5742503714,39.6923396410
+"182",PRT,Portugal,"16",Santarém,"239",Rio Maior,PT.SA.RM,"0","1414",Concelho,Municipality,,,-8.9014253255,39.3289264643
+"182",PRT,Portugal,"16",Santarém,"240",Salvaterra de Magos,PT.SA.SM,"0","1415",Concelho,Municipality,,,-8.6878096843,39.0467280070
+"182",PRT,Portugal,"16",Santarém,"241",Santarém,PT.SA.SA,"0","1416",Concelho,Municipality,,,-8.7269417382,39.3369572429
+"182",PRT,Portugal,"16",Santarém,"242",Sardoal,PT.SA.SD,"0","1417",Concelho,Municipality,,,-8.1385095738,39.5629737343
+"182",PRT,Portugal,"16",Santarém,"243",Tomar,PT.SA.TM,"0","1418",Concelho,Municipality,,,-8.3867567623,39.6029030176
+"182",PRT,Portugal,"16",Santarém,"244",Torres Novas,PT.SA.TN,"0","1419",Concelho,Municipality,,,-8.5508194377,39.5055515335
+"182",PRT,Portugal,"16",Santarém,"245",Vila Nova da Barquinha,PT.SA.VB,"0","1420",Concelho,Municipality,,,-8.4003884442,39.4816575162
+"182",PRT,Portugal,"17",Setúbal,"246",Alcácer do Sal,PT.SE.AS,"0","1501",Concelho,Municipality,,,-8.4703239209,38.3665509763
+"182",PRT,Portugal,"17",Setúbal,"247",Alcochete,PT.SE.AC,"0","1502",Concelho,Municipality,,,-8.8951965796,38.7218696093
+"182",PRT,Portugal,"17",Setúbal,"248",Almada,PT.SE.AM,"0","1503",Concelho,Municipality,,,-9.1930249523,38.6356105846
+"182",PRT,Portugal,"17",Setúbal,"249",Barreiro,PT.SE.BA,"0","1504",Concelho,Municipality,,,-9.0427141890,38.6250840971
+"182",PRT,Portugal,"17",Setúbal,"250",Grândola,PT.SE.GR,"0","1505",Concelho,Municipality,,,-8.5741948803,38.1784349884
+"182",PRT,Portugal,"17",Setúbal,"251",Moita,PT.SE.MT,"0","1506",Concelho,Municipality,,,-8.9976111081,38.6475768684
+"182",PRT,Portugal,"17",Setúbal,"252",Montijo,PT.SE.MN,"0","1507",Concelho,Municipality,,,-8.6893449657,38.7303607826
+"182",PRT,Portugal,"17",Setúbal,"253",Palmela,PT.SE.PA,"0","1508",Concelho,Municipality,,,-8.8072642815,38.6186082728
+"182",PRT,Portugal,"17",Setúbal,"254",Santiago do Cacém,PT.SE.SC,"0","1509",Concelho,Municipality,,,-8.5679965302,37.9531042167
+"182",PRT,Portugal,"17",Setúbal,"255",Seixal,PT.SE.SX,"0","1510",Concelho,Municipality,,,-9.1095715284,38.6019915114
+"182",PRT,Portugal,"17",Setúbal,"256",Sesimbra,PT.SE.SS,"0","1511",Concelho,Municipality,,,-9.1198129468,38.4946205981
+"182",PRT,Portugal,"17",Setúbal,"257",Setúbal,PT.SE.SE,"0","1512",Concelho,Municipality,,,-8.9079011807,38.5207503841
+"182",PRT,Portugal,"17",Setúbal,"258",Sines,PT.SE.SI,"0","1513",Concelho,Municipality,,,-8.7771641201,37.9244651062
+"182",PRT,Portugal,"18",Viana do Castelo,"259",Arcos de Valdevez,PT.VC.AV,"0","1601",Concelho,Municipality,,,-8.3644947759,41.9028646284
+"182",PRT,Portugal,"18",Viana do Castelo,"260",Caminha,PT.VC.CA,"0","1602",Concelho,Municipality,,,-8.7907250987,41.8477189783
+"182",PRT,Portugal,"18",Viana do Castelo,"261",Melgaço,PT.VC.ME,"0","1603",Concelho,Municipality,,,-8.2132875745,42.0496313140
+"182",PRT,Portugal,"18",Viana do Castelo,"262",Monção,PT.VC.MO,"0","1604",Concelho,Municipality,,,-8.4263429551,42.0272499077
+"182",PRT,Portugal,"18",Viana do Castelo,"263",Paredes de Coura,PT.VC.PC,"0","1605",Concelho,Municipality,,,-8.5720896452,41.9101927638
+"182",PRT,Portugal,"18",Viana do Castelo,"264",Ponte da Barca,PT.VC.PB,"0","1606",Concelho,Municipality,,,-8.3098276058,41.8067344973
+"182",PRT,Portugal,"18",Viana do Castelo,"265",Ponte de Lima,PT.VC.PL,"0","1607",Concelho,Municipality,,,-8.5874932830,41.7574291461
+"182",PRT,Portugal,"18",Viana do Castelo,"266",Valença,PT.VC.VA,"0","1608",Concelho,Municipality,,,-8.6063262832,41.9983202136
+"182",PRT,Portugal,"18",Viana do Castelo,"267",Viana do Castelo,PT.VC.VC,"0","1609",Concelho,Municipality,,,-8.7591904656,41.7170402225
+"182",PRT,Portugal,"18",Viana do Castelo,"268",Vila Nova de Cerveira,PT.VC.VN,"0","1610",Concelho,Municipality,,,-8.7066006254,41.9172843571
+"182",PRT,Portugal,"19",Vila Real,"269",Alijó,PT.VR.AL,"0","1701",Concelho,Municipality,,,-7.4859875902,41.3038079602
+"182",PRT,Portugal,"19",Vila Real,"270",Boticas,PT.VR.BO,"0","1702",Concelho,Municipality,,,-7.7339960516,41.6759460476
+"182",PRT,Portugal,"19",Vila Real,"271",Chaves,PT.VR.CH,"0","1703",Concelho,Municipality,,,-7.4370456796,41.7502019902
+"182",PRT,Portugal,"19",Vila Real,"272",Mesão Frio,PT.VR.MF,"0","1704",Concelho,Municipality,,,-7.8709908561,41.1639272723
+"182",PRT,Portugal,"19",Vila Real,"273",Mondim de Basto,PT.VR.MB,"0","1705",Concelho,Municipality,,,-7.8950627749,41.3887190172
+"182",PRT,Portugal,"19",Vila Real,"274",Montalegre,PT.VR.MT,"0","1706",Concelho,Municipality,,,-7.8513457943,41.7755859029
+"182",PRT,Portugal,"19",Vila Real,"275",Murça,PT.VR.MU,"0","1707",Concelho,Municipality,,,-7.4407238664,41.4223963144
+"182",PRT,Portugal,"19",Vila Real,"276",Peso da Régua,PT.VR.PR,"0","1708",Concelho,Municipality,,,-7.7687234208,41.1832549047
+"182",PRT,Portugal,"19",Vila Real,"277",Ribeira de Pena,PT.VR.RP,"0","1709",Concelho,Municipality,,,-7.7969417891,41.5088854307
+"182",PRT,Portugal,"19",Vila Real,"278",Sabrosa,PT.VR.SA,"0","1710",Concelho,Municipality,,,-7.5986298200,41.2523486092
+"182",PRT,Portugal,"19",Vila Real,"279",Santa Marta de Penaguião,PT.VR.SM,"0","1711",Concelho,Municipality,,,-7.8022865279,41.2280708864
+"182",PRT,Portugal,"19",Vila Real,"280",Valpaços,PT.VR.VA,"0","1712",Concelho,Municipality,,,-7.3412545026,41.6118319166
+"182",PRT,Portugal,"19",Vila Real,"281",Vila Pouca de Aguiar,PT.VR.VP,"0","1713",Concelho,Municipality,,,-7.6232475361,41.5109953565
+"182",PRT,Portugal,"19",Vila Real,"282",Vila Real,PT.VR.VR,"0","1714",Concelho,Municipality,,,-7.7385961021,41.3116519374
+"182",PRT,Portugal,"20",Viseu,"283",Armamar,PT.VI.AR,"0","1801",Concelho,Municipality,,,-7.6775578948,41.0949040160
+"182",PRT,Portugal,"20",Viseu,"284",Carregal do Sal,PT.VI.CS,"0","1802",Concelho,Municipality,,,-7.9880096456,40.4497789271
+"182",PRT,Portugal,"20",Viseu,"285",Castro Daire,PT.VI.CD,"0","1803",Concelho,Municipality,,,-7.9329066015,40.9128927976
+"182",PRT,Portugal,"20",Viseu,"286",Cinfães,PT.VI.CI,"0","1804",Concelho,Municipality,,,-8.1025650903,41.0352374815
+"182",PRT,Portugal,"20",Viseu,"287",Lamego,PT.VI.LA,"0","1805",Concelho,Municipality,,,-7.8224983044,41.0807172501
+"182",PRT,Portugal,"20",Viseu,"288",Mangualde,PT.VI.MA,"0","1806",Concelho,Municipality,,,-7.7200889337,40.5948720493
+"182",PRT,Portugal,"20",Viseu,"289",Moimenta da Beira,PT.VI.MB,"0","1807",Concelho,Municipality,,,-7.6385658556,40.9642638014
+"182",PRT,Portugal,"20",Viseu,"290",Mortágua,PT.VI.MR,"0","1808",Concelho,Municipality,,,-8.2531470380,40.4195190063
+"182",PRT,Portugal,"20",Viseu,"291",Nelas,PT.VI.NE,"0","1809",Concelho,Municipality,,,-7.8652017612,40.5268703730
+"182",PRT,Portugal,"20",Viseu,"292",Oliveira de Frades,PT.VI.OF,"0","1810",Concelho,Municipality,,,-8.2383706362,40.7037417680
+"182",PRT,Portugal,"20",Viseu,"293",Penalva do Castelo,PT.VI.PC,"0","1811",Concelho,Municipality,,,-7.6558740035,40.6713018925
+"182",PRT,Portugal,"20",Viseu,"294",Penedono,PT.VI.PE,"0","1812",Concelho,Municipality,,,-7.3950723080,40.9912310257
+"182",PRT,Portugal,"20",Viseu,"295",Resende,PT.VI.RE,"0","1813",Concelho,Municipality,,,-7.9397624788,41.0762094817
+"182",PRT,Portugal,"20",Viseu,"296",Sátão,PT.VI.ST,"0","1817",Concelho,Municipality,,,-7.6739629407,40.7702945267
+"182",PRT,Portugal,"20",Viseu,"297",São João da Pesqueira,PT.VI.SJ,"0","1815",Concelho,Municipality,,,-7.4379891748,41.1185176299
+"182",PRT,Portugal,"20",Viseu,"298",São Pedro do Sul,PT.VI.SP,"0","1816",Concelho,Municipality,,,-8.0946283352,40.8163939183
+"182",PRT,Portugal,"20",Viseu,"299",Santa Comba Dão,PT.VI.SC,"0","1814",Concelho,Municipality,,,-8.1156359442,40.4005905744
+"182",PRT,Portugal,"20",Viseu,"300",Sernancelhe,PT.VI.SE,"0","1818",Concelho,Municipality,,,-7.5070833454,40.9100149811
+"182",PRT,Portugal,"20",Viseu,"301",Tabuaço,PT.VI.TB,"0","1819",Concelho,Municipality,,,-7.5655458995,41.0942699508
+"182",PRT,Portugal,"20",Viseu,"302",Tarouca,PT.VI.TR,"0","1820",Concelho,Municipality,,,-7.7620850541,41.0139285829
+"182",PRT,Portugal,"20",Viseu,"303",Tondela,PT.VI.TO,"0","1821",Concelho,Municipality,,,-8.1226994198,40.5433565004
+"182",PRT,Portugal,"20",Viseu,"304",Vila Nova de Paiva,PT.VI.VP,"0","1822",Concelho,Municipality,,,-7.7633590281,40.8723231617
+"182",PRT,Portugal,"20",Viseu,"305",Viseu,PT.VI.VS,"0","1823",Concelho,Municipality,,,-7.9055815126,40.6880324315
+"182",PRT,Portugal,"20",Viseu,"306",Vouzela,PT.VI.VO,"0","1824",Concelho,Municipality,,,-8.1392388025,40.6749665028
