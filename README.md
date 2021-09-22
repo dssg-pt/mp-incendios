@@ -32,6 +32,8 @@ Este portal interactivo seria reminiscente do [fogos.pt](https://fogos.pt/) ou d
 - [_Dataset_ de mapeamento entre Códigos Postais e nomes de Freguesias, pós-Reorganização Administrativa das Freguesias](https://github.com/dssg-pt/mp-mapeamento-cp7)
 - [Representações cartográficos ao nível do concelho de Portugal Continental e Ilhas](https://github.com/dssg-pt/covid19pt-data/tree/master/extra/mapas/concelhos) (em vários formatos)
 - [`icnf_mapas`, por VOST Portugal](https://github.com/vostpt/icnf_mapas) - Map of forest fires by burnt area in Portugal (visualização similar e instruções para _scraping_ dos serviços web do ICNF)
+- [Territórios ardidos (ICNF)](https://geocatalogo.icnf.pt/catalogo.html) - Cartografia nacional de áreas ardidas dos anos 1975 à data atual (shapefiles, polígonos). [Metadados](https://sig.icnf.pt/portal/home/item.html?id=983c4e6c4d5b4666b258a3ad5f3ea5af)
+- [Base de dados FOGOS_1980_2000 (ICNF)](http://www2.icnf.pt/portal/florestas/dfci/inc/cartografia/bdados-pontos-inicio-ocorrencias) - Informação sobre os incêndios florestais no período de 1980 a 2000, tabela Excel
 
 ## 🧱 Principais etapas
 
