@@ -1,1 +1,2 @@
-
+Converted to WGS 84 coordinate sistem (x - longitude, y - latitude)
+Source https://dados.gov.pt/pt/datasets/concelhos-de-portugal/
