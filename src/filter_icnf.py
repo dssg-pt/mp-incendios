@@ -59,5 +59,5 @@ if __name__ == '__main__':
     
     # Let's just check if there are NaNs
     print(f"Are there NaNs? {out_dataset.isnull().values.any()}")
-    out_dataset.to_csv(OUTPUT_PATH, index=False, float_format='%.6f')
+    out_dataset.to_csv(OUTPUT_PATH, index=False)
     print(f"New dataset saved with shape {out_dataset.shape} saved to {OUTPUT_PATH}. Done!")
