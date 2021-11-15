@@ -11,7 +11,7 @@ icnf_file_2019 = Path(__file__).parent.resolve() / '..' / 'data' / 'raw' / 'icnf
 icnf_file_2020 = Path(__file__).parent.resolve() / '..' / 'data' / 'raw' / 'icnf_2020.csv'
 icnf_file_2021 = Path(__file__).parent.resolve() / '..' / 'data' / 'raw' / 'icnf_2021.csv'
 OUTPUT_PATH = Path(__file__).parent.resolve() / '..' / 'data' / 'filtered_data' / 'icnf_2015_2021_filtered.csv'
-OUTPUT_COLUMNS = ['CONCELHO', 'DHINICIO', 'AREATOTAL', 'LAT', 'LON', 'MES', 'ANO']
+OUTPUT_COLUMNS = ['CONCELHO', 'DHINICIO', 'AREATOTAL', 'LON', 'LAT', 'MES', 'ANO']
 
 if __name__ == '__main__':
 
@@ -52,9 +52,13 @@ if __name__ == '__main__':
     for oc in OUTPUT_COLUMNS:
         out_dataset[oc] = out_dataset[oc].astype(str).copy()
 
-    out_dataset.rename({'LAT': 'X', 'LON': 'Y'}, inplace=True, axis='columns')
-    out_dataset['X'] = out_dataset['X'].astype(float) 
-    out_dataset['Y'] = out_dataset['Y'].astype(float)
+    out_dataset.rename({'LAT': 'y', 'LON': 'x'}, inplace=True, axis='columns')
+    out_dataset['x'] = out_dataset['x'].astype(float)
+    out_dataset['y'] = out_dataset['y'].astype(float)
+    print(out_dataset.shape)
+    
+    out_dataset.rename({'CONCELHO': 'concelho', 'DHINICIO': 'data_inicio', 'AREATOTAL': 'area_total'}, inplace=True, axis='columns')
+    out_dataset.rename({'MES': 'month', 'ANO': 'year'}, inplace=True, axis='columns')
     print(out_dataset.shape)
     
     # Let's just check if there are NaNs
