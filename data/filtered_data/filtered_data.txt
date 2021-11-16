@@ -1,4 +1,4 @@
-CdD_filtered_data.csv - 2001-2015 data from Central de dados project, cleaned fires from ICNF archive, Lisbon military coordinates
+CdD_filtered_data.csv - 2001-2014 data from Central de dados project, cleaned fires from ICNF archive, Lisbon military coordinates
 CdD_filtered_data_latlong.csv - converted to geographic coordinates
 ICNF_filtered_data(1980_2000).csv - 1980-2000 data from Fogos database of ICNF, geographic coordinates 
-ICNF_filtered_data(2016_2021).csv - data scrapped from ICNF by VOST Portugal, geographic coordinates
+ICNF_filtered_data(2015_2021).csv - data scrapped from ICNF by VOST Portugal, geographic coordinates
