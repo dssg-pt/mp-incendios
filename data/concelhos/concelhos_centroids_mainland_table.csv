@@ -49,7 +49,7 @@ ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,HASC_2,CCN_2,CCA_2,TYPE_2,ENGTYPE_2,NL_N
 "182",PRT,Portugal,"5",Braga,"67",Amares,PT.BR.AM,"0","0301",Concelho,Municipality,,,-8.3452827311,41.6516856628
 "182",PRT,Portugal,"5",Braga,"68",Barcelos,PT.BR.BA,"0","0302",Concelho,Municipality,,,-8.6237092925,41.5367090993
 "182",PRT,Portugal,"5",Braga,"69",Braga,PT.BR.BR,"0","0303",Concelho,Municipality,,,-8.4238384192,41.5442371536
-"182",PRT,Portugal,"5",Braga,"69",Braga,PT.BR.BR,"0","0308",Concelho,Municipality,,,-8.3159849353,41.4630788012
+"182",PRT,Portugal,"5",Braga,"69",Guimarães,PT.BR.BR,"0","0308",Concelho,Municipality,,,-8.3159849353,41.4630788012
 "182",PRT,Portugal,"5",Braga,"70",Cabeceiras de Basto,PT.BR.CB,"0","0304",Concelho,Municipality,,,-7.9538898877,41.5401690162
 "182",PRT,Portugal,"5",Braga,"71",Celorico de Basto,PT.BR.CL,"0","0305",Concelho,Municipality,,,-8.0396116092,41.4013096671
 "182",PRT,Portugal,"5",Braga,"72",Esposende,PT.BR.ES,"0","0306",Concelho,Municipality,,,-8.7572338756,41.5471503496
@@ -102,7 +102,7 @@ ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,HASC_2,CCN_2,CCA_2,TYPE_2,ENGTYPE_2,NL_N
 "182",PRT,Portugal,"8",Coimbra,"119",Vila Nova de Poiares,PT.CO.VP,"0","0617",Concelho,Municipality,,,-8.2503948701,40.2169287265
 "182",PRT,Portugal,"9",Faro,"120",Albufeira,PT.FA.AB,"0","0801",Concelho,Municipality,,,-8.2326355915,37.1337812738
 "182",PRT,Portugal,"9",Faro,"121",Alcoutim,PT.FA.AC,"0","0802",Concelho,Municipality,,,-7.6409065206,37.4419949422
-"182",PRT,Portugal,"9",Faro,"121",Alcoutim,PT.FA.AC,"0","0814",Concelho,Municipality,,,-7.7237243628,37.2506587729
+"182",PRT,Portugal,"9",Faro,"121",Tavira,PT.FA.AC,"0","0814",Concelho,Municipality,,,-7.7237243628,37.2506587729
 "182",PRT,Portugal,"9",Faro,"122",Aljezur,PT.FA.AJ,"0","0803",Concelho,Municipality,,,-8.8008456244,37.2972228255
 "182",PRT,Portugal,"9",Faro,"123",Castro Marim,PT.FA.CM,"0","0804",Concelho,Municipality,,,-7.5168838188,37.2927206394
 "182",PRT,Portugal,"9",Faro,"124",Faro,PT.FA.FA,"0","0805",Concelho,Municipality,,,-7.9195804818,37.0599738320
