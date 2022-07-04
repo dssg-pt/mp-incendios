@@ -1,8 +1,8 @@
 ![DSGG Portugal](assets/dssg_logo_lettering.png)
 
-# 🔥🗺️ Mini-Projecto Mapa de Incêndios Rurais: as últimas décadas 
+# 🔥🗺️ Mini-Projecto Mapa de Incêndios Florestais: as últimas décadas 
 
-Este é o repositório do Mini-Projecto **Mapa de Incêndios Rurais: as últimas décadas**.
+Este é o repositório do Mini-Projecto **Mapa de Incêndios Florestais: as últimas décadas**.
 
 > **Projecto concluído!** ✅
 >
@@ -14,13 +14,13 @@ Este é o repositório do Mini-Projecto **Mapa de Incêndios Rurais: as últimas
 
 ## 🤔 Contexto
 
-Atingindo o seu pico no Verão, os incêndios rurais são um flagelo do nosso país há já várias décadas. São dezenas de milhares de hectares de área ardida todos os anos, com incontáveis perdas materiais e, nos casos mais extremos, de vida humana. Estes incêndios resistem de forma impérvia às várias estratégias (implementadas ao nível da resposta central, local, regulatória e legal) e melhorias técnicas empregues no seu combate. 
+Atingindo o seu pico no Verão, os incêndios florestais são um flagelo do nosso país há já várias décadas. São dezenas de milhares de hectares de área ardida todos os anos, com incontáveis perdas materiais e, nos casos mais extremos, de vida humana. Estes incêndios resistem de forma impérvia às várias estratégias (implementadas ao nível da resposta central, local, regulatória e legal) e melhorias técnicas empregues no seu combate. 
 
 Todos os anos, é comum os órgãos de comunicação social exibirem os mapas da área ardida durante a chamada _“época de incêndios”_. Surpreendentemente, as últimas décadas de incêndios florestais no país têm associados muitos registos digitais. Surge então a pergunta: será que visualizar a evolução deste mapa ao longo das várias décadas nos permitirá perceber melhor o fenómeno dos incêndios? Permitirá uma visualização interactiva deste tipo desbloquear novas observações que informem a estratégia de combate aos incêndios ou pintem retratos mais exactos deste flagelo no país? 
 
 ## 🥅 Objectivo
 
-O objetivo deste Mini-Projecto é criar um portal onde seja possível visualizar, sobre um mapa de Portugal, num horizonte temporal o mais alargado possível, a área ardida em todos os incêndios rurais presentes nos registos digitais das fontes oficiais. 
+O objetivo deste Mini-Projecto é criar um portal onde seja possível visualizar, sobre um mapa de Portugal, num horizonte temporal o mais alargado possível, a área ardida em todos os incêndios florestais presentes nos registos digitais das fontes oficiais. 
 
 Este portal interactivo seria reminiscente do [fogos.pt](https://fogos.pt/) ou do [Wildfire Map do FWAC](https://www.fireweatheravalanche.org/fire/), mas mais focado na exploração interactiva de eventos passados. Cada incêndio teria, por exemplo, cor e dimensões proporcionais à sua magnitude em termos de área ardida (vulgo _heatmap_), permitindo assim, ao longo do tempo, visualizar onde no país estão os pontos de foco destes eventos e se estes variam.
 
@@ -34,8 +34,8 @@ Este portal interactivo seria reminiscente do [fogos.pt](https://fogos.pt/) ou d
   - Dados de 2016 a 2019, inclusive
   - Necessário filtrar por eventos de interesse
   - Contém instruções sobre como obter lista de eventos mais recentes (até Julho de 2020) directamente da API da Protecção Civil
-- [Relatórios anuais de Incêndios rurais do ICNF](http://www2.icnf.pt/portal/florestas/dfci/relat/rel-if) 
-  - Comtém lista dos 20 maiores incêndios rurais no período de cada relatório
+- [Relatórios anuais de Incêndios florestais do ICNF](http://www2.icnf.pt/portal/florestas/dfci/relat/rel-if) 
+  - Contém lista dos 20 maiores incêndios florestais no período de cada relatório
   - Relatório em PDF, mas as tabelas com dados de interesse são facilmente extraíveis
 - [_Dataset_ de mapeamento entre Códigos Postais e nomes de Freguesias, pós-Reorganização Administrativa das Freguesias](https://github.com/dssg-pt/mp-mapeamento-cp7)
 - [Representações cartográficos ao nível do concelho de Portugal Continental e Ilhas](https://github.com/dssg-pt/covid19pt-data/tree/master/extra/mapas/concelhos) (em vários formatos)
