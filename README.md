@@ -9,6 +9,8 @@ Este é o repositório do Mini-Projecto **Mapa de Incêndios Rurais: as últimas
 > 🗺 O mapa interactivo está disponível em https://dssg-pt.github.io/mp-incendios-app/
 > 
 > 🗄️ Os dados (originais e transformados) estão disponíveis neste repositório, em `data/` (detalhes adicionais [aqui](https://dssg-pt.github.io/mp-incendios-app/#/Dataset)). 
+> 
+> 👇 O conteúdo abaixo reflecte o âmbito inicial do Mini-Projecto. Poderá, nalguns aspectos, estar desactualizado. 
 
 ## 🤔 Contexto
 
