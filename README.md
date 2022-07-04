@@ -4,6 +4,12 @@
 
 Este é o repositório do Mini-Projecto **Mapa de Incêndios Rurais: as últimas décadas**.
 
+> **Projecto concluído!** ✅
+>
+> 🗺 O mapa interactivo está disponível em https://dssg-pt.github.io/mp-incendios-app/
+> 
+> 🗄️ Os dados (originais e transformados) estão disponíveis neste repositório, em `data/` (detalhes adicionais [aqui](https://dssg-pt.github.io/mp-incendios-app/#/Dataset)). 
+
 ## 🤔 Contexto
 
 Atingindo o seu pico no Verão, os incêndios rurais são um flagelo do nosso país há já várias décadas. São dezenas de milhares de hectares de área ardida todos os anos, com incontáveis perdas materiais e, nos casos mais extremos, de vida humana. Estes incêndios resistem de forma impérvia às várias estratégias (implementadas ao nível da resposta central, local, regulatória e legal) e melhorias técnicas empregues no seu combate. 
@@ -12,7 +18,7 @@ Todos os anos, é comum os órgãos de comunicação social exibirem os mapas da
 
 ## 🥅 Objectivo
 
-O objetivo deste Mini-Projecto é criar um portal onde seja possível visualizar, sobre um mapa de Portugal, num horizonte temporal o mais alargado possível, a área ardida em todos os incêndios rurais de grande dimensão e presentes nos registos digitais das fontes oficiais. 
+O objetivo deste Mini-Projecto é criar um portal onde seja possível visualizar, sobre um mapa de Portugal, num horizonte temporal o mais alargado possível, a área ardida em todos os incêndios rurais presentes nos registos digitais das fontes oficiais. 
 
 Este portal interactivo seria reminiscente do [fogos.pt](https://fogos.pt/) ou do [Wildfire Map do FWAC](https://www.fireweatheravalanche.org/fire/), mas mais focado na exploração interactiva de eventos passados. Cada incêndio teria, por exemplo, cor e dimensões proporcionais à sua magnitude em termos de área ardida (vulgo _heatmap_), permitindo assim, ao longo do tempo, visualizar onde no país estão os pontos de foco destes eventos e se estes variam.
 
@@ -62,30 +68,14 @@ Os resultados finais esperados são:
 - Um **portal interactivo público** com as funcionalidades desejadas, com o respectivo código disponível sob licença _open-source_
 - **Repositório com o dataset compilado** que alimenta esse portal, disponível sob uma licença de dados abertos
 
-![portal_mockup](https://user-images.githubusercontent.com/6266595/126084256-59c8bd27-23ee-478e-8fd8-f2063d8d70c5.png)
-
-_Mockup básica e meramente indicativa de um possível design do portal_
-
 ## 👥 Equipa
 
 Este Mini-Projecto está pensado para uma equipa com, no máximo, **2 pessoas**, que devem idealmente conjugar mínima proficiência nas seguintes áreas: 
 
 - Limpeza e pré-processamento de dados tabulares e cartográficos (Python/R ou similares) - os _datasets_ base têm na ordem das dezenas/centenas de milhares de entradas
 - Construção de _frontend_ eficiente para visualização interactiva de mapas
-  - Utilizando ferramentas de visualização cartográfica e construção de frontends do ecossistema Python/R (`folium`, `pydeck`, `streamlit`, `dash`, etc) **OU** equivalentes em JavaScript (`d3.js`, por exemplo)
+  - Utilizando ferramentas de visualização cartográfica e construção de frontends do ecossistema Python/R (`folium`, `pydeck`, `streamlit`, `dash`, etc) **OU** equivalentes em JavaScript (`d3.js`, por exemplo)´
   - _Deployment_ deste portal
-
-## ⏲️ Duração prevista
-
-Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto tem uma duração estimada de **2.5 meses** (com a alocação de algumas horas por semana por cada membro da equipa). A duração estimada e objectivos do Mini-Projecto serão continuamente revistos, pela DSSG PT e pela equipa seleccionado, ao longo do mesmo. 
-
-## 🔁 Reprodutibilidade
-
-**TODO**: Ambientes virtuais, dependências, etc. 
-
-# 👉 Chegaste aqui e queres juntar-te a este Mini-Projecto?
-
-Neste momento o recrutamento encontra-se fechado. Voltaremos em breve com novidades! ✌
 
 --- 
 
